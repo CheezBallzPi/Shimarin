@@ -1,5 +1,4 @@
-var out = {
+module.exports = {
+    prefix: "!",
     token: process.env.BOT_TOKEN,
 }
-
-module.exports = out
