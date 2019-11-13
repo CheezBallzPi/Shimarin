@@ -2,7 +2,7 @@
   "name": "shimarin",
   "version": "1.0.0",
   "description": "Shimarin Bot",
-  "main": "bot.js",
+  "main": "src/bot.js",
   "author": "Cheez",
   "dependencies": {
     "discord.js": "^11.5.1"
